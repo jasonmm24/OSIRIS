@@ -1,0 +1,8 @@
+# Entornos virtuales y caché
+.venv/
+__pycache__/
+*.pyc
+
+# Ocultar módulos de voz temporalmente
+src/osiris/main_headless.py
+src/osiris/core/audio.py
